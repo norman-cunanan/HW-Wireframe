@@ -8,6 +8,7 @@ body {
 
 header {
 	text-align: center;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 20px;
 	padding: 5%;
 	border: 20px;
@@ -26,10 +27,11 @@ header {
 }
 
 .text {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
 }
 
-.section-container {
+#section-container {
 	text-align: center;
 	padding: 5%;
 	background-color: #deceda;
@@ -42,9 +44,30 @@ header {
 	background-color: #777;
 }
 
+.nav-container {
+	background-color: #deceda;
+	text-align: center;
+	padding: 5%;
+	margin-bottom: 15px;
+}
+
 .aside-container {
 	text-align: center;
 	padding: 5%;
-	background-color: #deceda;
+	background-color: blue;
 
+}
+
+.aside {
+	left: 50px;
+}
+/*#aside {
+	float: left;
+}*/
+
+.footer-container {
+	text-align: center;
+	padding: 5%;
+	background-color: #deceda;
+	margin-top: 15px;
 }
