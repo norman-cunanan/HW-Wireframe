@@ -1,1 +1,50 @@
 
+body {
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+	background: #777;
+}
+
+header {
+	text-align: center;
+	font-size: 20px;
+	padding: 5%;
+	border: 20px;
+	background-color: #deceda;
+}
+
+.container {
+	margin-top: 15px;
+}
+
+.nav-container {
+	background-color: #deceda;
+	text-align: center;
+	padding: 5%;
+	margin-bottom: 15px;
+}
+
+.text {
+	font-size: 18px;
+}
+
+.section-container {
+	text-align: center;
+	padding: 5%;
+	background-color: #deceda;
+	margin-right:45%;
+}
+
+.article-container {
+	text-align: center;
+	padding: 5%;
+	background-color: #777;
+}
+
+.aside-container {
+	text-align: center;
+	padding: 5%;
+	background-color: #deceda;
+
+}
