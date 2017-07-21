@@ -35,7 +35,11 @@ header {
 	text-align: center;
 	padding: 5%;
 	background-color: #deceda;
-	margin-right:45%;
+	height: 215px;
+	width: 40%;
+	margin-right:10px;
+	margin-bottom: 10px;
+	float: left;
 }
 
 .article-container {
@@ -55,15 +59,11 @@ header {
 	text-align: center;
 	padding: 5%;
 	background-color: blue;
-
+	height:215px;
+	width: 38%;
+	display: inline-block;
 }
 
-.aside {
-	left: 50px;
-}
-/*#aside {
-	float: left;
-}*/
 
 .footer-container {
 	text-align: center;
